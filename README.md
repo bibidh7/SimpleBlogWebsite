@@ -1,2 +1,0 @@
-# SimpleBlogWebsite
-Created with CodeSandbox
